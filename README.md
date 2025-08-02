@@ -17,7 +17,7 @@ A smart, LLM-powered expense tracking system built with **LangGraph**, **LangCha
 
 The system is built using a LangGraph with the following structure:
 
-![LangGraph Flow](graph.png)
+![LangGraph Flow](output.png)
 
 ### Flow Description
 
